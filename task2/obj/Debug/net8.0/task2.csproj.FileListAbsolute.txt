@@ -1,0 +1,15 @@
+/Users/user/Desktop/c#/new_Masha/task2/bin/Debug/net8.0/task2
+/Users/user/Desktop/c#/new_Masha/task2/bin/Debug/net8.0/task2.deps.json
+/Users/user/Desktop/c#/new_Masha/task2/bin/Debug/net8.0/task2.runtimeconfig.json
+/Users/user/Desktop/c#/new_Masha/task2/bin/Debug/net8.0/task2.dll
+/Users/user/Desktop/c#/new_Masha/task2/bin/Debug/net8.0/task2.pdb
+/Users/user/Desktop/c#/new_Masha/task2/obj/Debug/net8.0/task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/c#/new_Masha/task2/obj/Debug/net8.0/task2.AssemblyInfoInputs.cache
+/Users/user/Desktop/c#/new_Masha/task2/obj/Debug/net8.0/task2.AssemblyInfo.cs
+/Users/user/Desktop/c#/new_Masha/task2/obj/Debug/net8.0/task2.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/c#/new_Masha/task2/obj/Debug/net8.0/task2.sourcelink.json
+/Users/user/Desktop/c#/new_Masha/task2/obj/Debug/net8.0/task2.dll
+/Users/user/Desktop/c#/new_Masha/task2/obj/Debug/net8.0/refint/task2.dll
+/Users/user/Desktop/c#/new_Masha/task2/obj/Debug/net8.0/task2.pdb
+/Users/user/Desktop/c#/new_Masha/task2/obj/Debug/net8.0/task2.genruntimeconfig.cache
+/Users/user/Desktop/c#/new_Masha/task2/obj/Debug/net8.0/ref/task2.dll
