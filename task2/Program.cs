@@ -21,3 +21,12 @@ double product3 = d1 * a1;
 Console.WriteLine(product2);
 Console.WriteLine(product3);
 
+int quotient = a1 / a2;
+Console.WriteLine(quotient);
+
+ double quotient2 = d1 / a1;
+ Console.WriteLine(quotient2);
+
+double d2 = 10;
+double quotient3 = d2 / a2;
+Console.WriteLine(quotient3);
