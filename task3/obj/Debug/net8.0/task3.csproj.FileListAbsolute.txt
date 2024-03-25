@@ -1,0 +1,15 @@
+/Users/user/Desktop/c#/new_Masha/task3/bin/Debug/net8.0/task3
+/Users/user/Desktop/c#/new_Masha/task3/bin/Debug/net8.0/task3.deps.json
+/Users/user/Desktop/c#/new_Masha/task3/bin/Debug/net8.0/task3.runtimeconfig.json
+/Users/user/Desktop/c#/new_Masha/task3/bin/Debug/net8.0/task3.dll
+/Users/user/Desktop/c#/new_Masha/task3/bin/Debug/net8.0/task3.pdb
+/Users/user/Desktop/c#/new_Masha/task3/obj/Debug/net8.0/task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/c#/new_Masha/task3/obj/Debug/net8.0/task3.AssemblyInfoInputs.cache
+/Users/user/Desktop/c#/new_Masha/task3/obj/Debug/net8.0/task3.AssemblyInfo.cs
+/Users/user/Desktop/c#/new_Masha/task3/obj/Debug/net8.0/task3.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/c#/new_Masha/task3/obj/Debug/net8.0/task3.sourcelink.json
+/Users/user/Desktop/c#/new_Masha/task3/obj/Debug/net8.0/task3.dll
+/Users/user/Desktop/c#/new_Masha/task3/obj/Debug/net8.0/refint/task3.dll
+/Users/user/Desktop/c#/new_Masha/task3/obj/Debug/net8.0/task3.pdb
+/Users/user/Desktop/c#/new_Masha/task3/obj/Debug/net8.0/task3.genruntimeconfig.cache
+/Users/user/Desktop/c#/new_Masha/task3/obj/Debug/net8.0/ref/task3.dll
