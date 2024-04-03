@@ -1,0 +1,15 @@
+/Users/user/Desktop/c#/new_Masha/Массивы/задача1/bin/Debug/net8.0/задача1
+/Users/user/Desktop/c#/new_Masha/Массивы/задача1/bin/Debug/net8.0/задача1.deps.json
+/Users/user/Desktop/c#/new_Masha/Массивы/задача1/bin/Debug/net8.0/задача1.runtimeconfig.json
+/Users/user/Desktop/c#/new_Masha/Массивы/задача1/bin/Debug/net8.0/задача1.dll
+/Users/user/Desktop/c#/new_Masha/Массивы/задача1/bin/Debug/net8.0/задача1.pdb
+/Users/user/Desktop/c#/new_Masha/Массивы/задача1/obj/Debug/net8.0/задача1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/c#/new_Masha/Массивы/задача1/obj/Debug/net8.0/задача1.AssemblyInfoInputs.cache
+/Users/user/Desktop/c#/new_Masha/Массивы/задача1/obj/Debug/net8.0/задача1.AssemblyInfo.cs
+/Users/user/Desktop/c#/new_Masha/Массивы/задача1/obj/Debug/net8.0/задача1.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/c#/new_Masha/Массивы/задача1/obj/Debug/net8.0/задача1.sourcelink.json
+/Users/user/Desktop/c#/new_Masha/Массивы/задача1/obj/Debug/net8.0/задача1.dll
+/Users/user/Desktop/c#/new_Masha/Массивы/задача1/obj/Debug/net8.0/refint/задача1.dll
+/Users/user/Desktop/c#/new_Masha/Массивы/задача1/obj/Debug/net8.0/задача1.pdb
+/Users/user/Desktop/c#/new_Masha/Массивы/задача1/obj/Debug/net8.0/задача1.genruntimeconfig.cache
+/Users/user/Desktop/c#/new_Masha/Массивы/задача1/obj/Debug/net8.0/ref/задача1.dll
