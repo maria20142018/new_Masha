@@ -1,0 +1,15 @@
+/Users/user/Desktop/c#/new_Masha/Массивы/зад2/bin/Debug/net8.0/зад2
+/Users/user/Desktop/c#/new_Masha/Массивы/зад2/bin/Debug/net8.0/зад2.deps.json
+/Users/user/Desktop/c#/new_Masha/Массивы/зад2/bin/Debug/net8.0/зад2.runtimeconfig.json
+/Users/user/Desktop/c#/new_Masha/Массивы/зад2/bin/Debug/net8.0/зад2.dll
+/Users/user/Desktop/c#/new_Masha/Массивы/зад2/bin/Debug/net8.0/зад2.pdb
+/Users/user/Desktop/c#/new_Masha/Массивы/зад2/obj/Debug/net8.0/зад2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/c#/new_Masha/Массивы/зад2/obj/Debug/net8.0/зад2.AssemblyInfoInputs.cache
+/Users/user/Desktop/c#/new_Masha/Массивы/зад2/obj/Debug/net8.0/зад2.AssemblyInfo.cs
+/Users/user/Desktop/c#/new_Masha/Массивы/зад2/obj/Debug/net8.0/зад2.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/c#/new_Masha/Массивы/зад2/obj/Debug/net8.0/зад2.sourcelink.json
+/Users/user/Desktop/c#/new_Masha/Массивы/зад2/obj/Debug/net8.0/зад2.dll
+/Users/user/Desktop/c#/new_Masha/Массивы/зад2/obj/Debug/net8.0/refint/зад2.dll
+/Users/user/Desktop/c#/new_Masha/Массивы/зад2/obj/Debug/net8.0/зад2.pdb
+/Users/user/Desktop/c#/new_Masha/Массивы/зад2/obj/Debug/net8.0/зад2.genruntimeconfig.cache
+/Users/user/Desktop/c#/new_Masha/Массивы/зад2/obj/Debug/net8.0/ref/зад2.dll
